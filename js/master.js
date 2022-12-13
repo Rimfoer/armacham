@@ -31,7 +31,7 @@ var attributes =
 };
 
 // does the actual embed, replace all values wrapped in <>
-swfobject.embedSWF("armacham/flash/MainSite.swf", "flashContent", "100%", "1210", "9.0.0", "armacham/js/swfobject/expressInstall.swf", flashvars, params, attributes);
+swfobject.embedSWF("flash/MainSite.swf", "flashContent", "100%", "1210", "9.0.0", "js/swfobject/expressInstall.swf", flashvars, params, attributes);
 
 
 }
