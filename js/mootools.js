@@ -361,24 +361,3 @@ Element.Properties.load={set:function(A){var B=this.retrieve("load");if(B){B.can
 },success:function(A){this.response.json=JSON.decode(A,this.options.secure);this.onSuccess(this.response.json,A);}});
 
 }
-/*
-     FILE ARCHIVED ON 12:44:17 Mar 29, 2013 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 13:42:28 Dec 12, 2022.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 12499.843
-  exclusion.robots: 0.065
-  exclusion.robots.policy: 0.059
-  cdx.remote: 0.057
-  esindex: 0.008
-  LoadShardBlock: 46.084 (3)
-  PetaboxLoader3.datanode: 57.514 (4)
-  CDXLines.iter: 20.73 (3)
-  load_resource: 130.522
-  PetaboxLoader3.resolve: 102.783
-*/
